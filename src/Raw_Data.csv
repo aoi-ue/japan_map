@@ -1,0 +1,377 @@
+Country,State,Gender,Age,Total Population
+Japan,Tokyo,Female,Below 20,4049739
+Japan,Tokyo,Female,20-40,2245165
+Japan,Tokyo,Female,40-60,1809100
+Japan,Tokyo,Female,Above 60,5138122
+Japan,Tokyo,Male,Below 20,4755957
+Japan,Tokyo,Male,20-40,1235520
+Japan,Tokyo,Male,40-60,2447507
+Japan,Tokyo,Male,Above 60,6119541
+Japan,Kanagawa,Female,Below 20,4265639
+Japan,Kanagawa,Female,20-40,1936635
+Japan,Kanagawa,Female,40-60,4037327
+Japan,Kanagawa,Female,Above 60,354328
+Japan,Kanagawa,Male,Below 20,4102361
+Japan,Kanagawa,Male,20-40,2960348
+Japan,Kanagawa,Male,40-60,735675
+Japan,Kanagawa,Male,Above 60,3895980
+Japan,Osaka,Female,Below 20,22288293
+Japan,Osaka,Female,20-40,675041
+Japan,Osaka,Female,40-60,598310
+Japan,Osaka,Female,Above 60,1430006
+Japan,Osaka,Male,Below 20,4059650
+Japan,Osaka,Male,20-40,914250
+Japan,Osaka,Male,40-60,3614535
+Japan,Osaka,Male,Above 60,2184380
+Japan,Aichi,Female,Below 20,1682470
+Japan,Aichi,Female,20-40,45717
+Japan,Aichi,Female,40-60,3229115
+Japan,Aichi,Female,Above 60,3600438
+Japan,Aichi,Male,Below 20,1751836
+Japan,Aichi,Male,20-40,3056291
+Japan,Aichi,Male,40-60,2722545
+Japan,Aichi,Male,Above 60,2375338
+Japan,Saitama,Female,Below 20,512248
+Japan,Saitama,Female,20-40,205611
+Japan,Saitama,Female,40-60,855633
+Japan,Saitama,Female,Above 60,3140418
+Japan,Saitama,Male,Below 20,1675428
+Japan,Saitama,Male,20-40,1511871
+Japan,Saitama,Male,40-60,2463752
+Japan,Saitama,Male,Above 60,1535760
+Japan,Chiba,Female,Below 20,1795888
+Japan,Chiba,Female,20-40,1169853
+Japan,Chiba,Female,40-60,1914045
+Japan,Chiba,Female,Above 60,1527152
+Japan,Chiba,Male,Below 20,365022
+Japan,Chiba,Male,20-40,1404672
+Japan,Chiba,Male,40-60,310396
+Japan,Chiba,Male,Above 60,737344
+Japan,Hyogo,Female,Below 20,206834
+Japan,Hyogo,Female,20-40,763670
+Japan,Hyogo,Female,40-60,564292
+Japan,Hyogo,Female,Above 60,1766209
+Japan,Hyogo,Male,Below 20,1920024
+Japan,Hyogo,Male,20-40,1205295
+Japan,Hyogo,Male,40-60,1280350
+Japan,Hyogo,Male,Above 60,1664498
+Japan,Hokkaido,Female,Below 20,477074
+Japan,Hokkaido,Female,20-40,1232940
+Japan,Hokkaido,Female,40-60,686633
+Japan,Hokkaido,Female,Above 60,1358897
+Japan,Hokkaido,Male,Below 20,894424
+Japan,Hokkaido,Male,20-40,873946
+Japan,Hokkaido,Male,40-60,2146143
+Japan,Hokkaido,Male,Above 60,1960661
+Japan,Fukuoka,Female,Below 20,909554
+Japan,Fukuoka,Female,20-40,84586
+Japan,Fukuoka,Female,40-60,211574
+Japan,Fukuoka,Female,Above 60,586006
+Japan,Fukuoka,Male,Below 20,1205288
+Japan,Fukuoka,Male,20-40,263588
+Japan,Fukuoka,Male,40-60,287328
+Japan,Fukuoka,Male,Above 60,170761
+Japan,Shizuoka,Female,Below 20,1117696
+Japan,Shizuoka,Female,20-40,1415307
+Japan,Shizuoka,Female,40-60,1320036
+Japan,Shizuoka,Female,Above 60,594403
+Japan,Shizuoka,Male,Below 20,285553
+Japan,Shizuoka,Male,20-40,1603784
+Japan,Shizuoka,Male,40-60,162994
+Japan,Shizuoka,Male,Above 60,861741
+Japan,Ibaraki,Female,Below 20,1271290
+Japan,Ibaraki,Female,20-40,945476
+Japan,Ibaraki,Female,40-60,1375390
+Japan,Ibaraki,Female,Above 60,954964
+Japan,Ibaraki,Male,Below 20,1101552
+Japan,Ibaraki,Male,20-40,523857
+Japan,Ibaraki,Male,40-60,1125351
+Japan,Ibaraki,Male,Above 60,687184
+Japan,Hiroshima,Female,Below 20,363234
+Japan,Hiroshima,Female,20-40,605370
+Japan,Hiroshima,Female,40-60,227802
+Japan,Hiroshima,Female,Above 60,870124
+Japan,Hiroshima,Male,Below 20,818053
+Japan,Hiroshima,Male,20-40,1094051
+Japan,Hiroshima,Male,40-60,650729
+Japan,Hiroshima,Male,Above 60,899500
+Japan,Kyoto,Female,Below 20,1080508
+Japan,Kyoto,Female,20-40,276496
+Japan,Kyoto,Female,40-60,108962
+Japan,Kyoto,Female,Above 60,393667
+Japan,Kyoto,Male,Below 20,1081745
+Japan,Kyoto,Male,20-40,586606
+Japan,Kyoto,Male,40-60,941593
+Japan,Kyoto,Male,Above 60,89679
+Japan,Niigata,Female,Below 20,783839
+Japan,Niigata,Female,20-40,339593
+Japan,Niigata,Female,40-60,748538
+Japan,Niigata,Female,Above 60,427112
+Japan,Niigata,Male,Below 20,1049471
+Japan,Niigata,Male,20-40,958117
+Japan,Niigata,Male,40-60,1028342
+Japan,Niigata,Male,Above 60,795429
+Japan,Miyagi,Female,Below 20,950607
+Japan,Miyagi,Female,20-40,930534
+Japan,Miyagi,Female,40-60,87484
+Japan,Miyagi,Female,Above 60,475402
+Japan,Miyagi,Male,Below 20,653623
+Japan,Miyagi,Male,20-40,149599
+Japan,Miyagi,Male,40-60,337042
+Japan,Miyagi,Male,Above 60,251424
+Japan,Nagano,Female,Below 20,270977
+Japan,Nagano,Female,20-40,935501
+Japan,Nagano,Female,40-60,410651
+Japan,Nagano,Female,Above 60,997964
+Japan,Nagano,Male,Below 20,200105
+Japan,Nagano,Male,20-40,940945
+Japan,Nagano,Male,40-60,634034
+Japan,Nagano,Male,Above 60,318989
+Japan,Gifu,Female,Below 20,275433
+Japan,Gifu,Female,20-40,937015
+Japan,Gifu,Female,40-60,679766
+Japan,Gifu,Female,Above 60,635784
+Japan,Gifu,Male,Below 20,833421
+Japan,Gifu,Male,20-40,141476
+Japan,Gifu,Male,40-60,537504
+Japan,Gifu,Male,Above 60,878207
+Japan,Gunma,Female,Below 20,634323
+Japan,Gunma,Female,20-40,498859
+Japan,Gunma,Female,40-60,302063
+Japan,Gunma,Female,Above 60,897514
+Japan,Gunma,Male,Below 20,379762
+Japan,Gunma,Male,20-40,525255
+Japan,Gunma,Male,40-60,813652
+Japan,Gunma,Male,Above 60,17047
+Japan,Tochigi,Female,Below 20,467660
+Japan,Tochigi,Female,20-40,559170
+Japan,Tochigi,Female,40-60,768658
+Japan,Tochigi,Female,Above 60,222707
+Japan,Tochigi,Male,Below 20,902096
+Japan,Tochigi,Male,20-40,641069
+Japan,Tochigi,Male,40-60,99692
+Japan,Tochigi,Male,Above 60,735310
+Japan,Fukushima,Female,Below 20,519447
+Japan,Fukushima,Female,20-40,316765
+Japan,Fukushima,Female,40-60,320624
+Japan,Fukushima,Female,Above 60,386577
+Japan,Fukushima,Male,Below 20,764031
+Japan,Fukushima,Male,20-40,254885
+Japan,Fukushima,Male,40-60,52276
+Japan,Fukushima,Male,Above 60,658123
+Japan,Okayama,Female,Below 20,338336
+Japan,Okayama,Female,20-40,951945
+Japan,Okayama,Female,40-60,689832
+Japan,Okayama,Female,Above 60,343148
+Japan,Okayama,Male,Below 20,160322
+Japan,Okayama,Male,20-40,19399
+Japan,Okayama,Male,40-60,200469
+Japan,Okayama,Male,Above 60,385299
+Japan,Mie,Female,Below 20,691603
+Japan,Mie,Female,20-40,131145
+Japan,Mie,Female,40-60,801831
+Japan,Mie,Female,Above 60,575253
+Japan,Mie,Male,Below 20,826118
+Japan,Mie,Male,20-40,661686
+Japan,Mie,Male,40-60,400843
+Japan,Mie,Male,Above 60,807930
+Japan,Kumamoto,Female,Below 20,152072
+Japan,Kumamoto,Female,20-40,154650
+Japan,Kumamoto,Female,40-60,667187
+Japan,Kumamoto,Female,Above 60,675232
+Japan,Kumamoto,Male,Below 20,41554
+Japan,Kumamoto,Male,20-40,824956
+Japan,Kumamoto,Male,40-60,79940
+Japan,Kumamoto,Male,Above 60,761228
+Japan,Kagoshima,Female,Below 20,722973
+Japan,Kagoshima,Female,20-40,687011
+Japan,Kagoshima,Female,40-60,337983
+Japan,Kagoshima,Female,Above 60,883903
+Japan,Kagoshima,Male,Below 20,762177
+Japan,Kagoshima,Male,20-40,190268
+Japan,Kagoshima,Male,40-60,83006
+Japan,Kagoshima,Male,Above 60,166081
+Japan,Yamaguchi,Female,Below 20,177874
+Japan,Yamaguchi,Female,20-40,483379
+Japan,Yamaguchi,Female,40-60,345012
+Japan,Yamaguchi,Female,Above 60,525863
+Japan,Yamaguchi,Male,Below 20,41514
+Japan,Yamaguchi,Male,20-40,320261
+Japan,Yamaguchi,Male,40-60,174944
+Japan,Yamaguchi,Male,Above 60,218205
+Japan,Ehime,Female,Below 20,532247
+Japan,Ehime,Female,20-40,434242
+Japan,Ehime,Female,40-60,534836
+Japan,Ehime,Female,Above 60,343808
+Japan,Ehime,Male,Below 20,340173
+Japan,Ehime,Male,20-40,368606
+Japan,Ehime,Male,40-60,344262
+Japan,Ehime,Male,Above 60,616100
+Japan,Nagasaki,Female,Below 20,248212
+Japan,Nagasaki,Female,20-40,616807
+Japan,Nagasaki,Female,40-60,11332
+Japan,Nagasaki,Female,Above 60,156051
+Japan,Nagasaki,Male,Below 20,565882
+Japan,Nagasaki,Male,20-40,567715
+Japan,Nagasaki,Male,40-60,343351
+Japan,Nagasaki,Male,Above 60,364358
+Japan,Shiga,Female,Below 20,581446
+Japan,Shiga,Female,20-40,464452
+Japan,Shiga,Female,40-60,496250
+Japan,Shiga,Female,Above 60,479513
+Japan,Shiga,Male,Below 20,512048
+Japan,Shiga,Male,20-40,7731
+Japan,Shiga,Male,40-60,1289
+Japan,Shiga,Male,Above 60,165779
+Japan,Okinawa,Female,Below 20,15028
+Japan,Okinawa,Female,20-40,466078
+Japan,Okinawa,Female,40-60,278847
+Japan,Okinawa,Female,Above 60,279486
+Japan,Okinawa,Male,Below 20,668720
+Japan,Okinawa,Male,20-40,500508
+Japan,Okinawa,Male,40-60,254536
+Japan,Okinawa,Male,Above 60,2461
+Japan,Nara,Female,Below 20,353012
+Japan,Nara,Female,20-40,481274
+Japan,Nara,Female,40-60,275476
+Japan,Nara,Female,Above 60,413010
+Japan,Nara,Male,Below 20,176056
+Japan,Nara,Male,20-40,133259
+Japan,Nara,Male,40-60,274515
+Japan,Nara,Male,Above 60,608027
+Japan,Aomori,Female,Below 20,267726
+Japan,Aomori,Female,20-40,346386
+Japan,Aomori,Female,40-60,339353
+Japan,Aomori,Female,Above 60,239610
+Japan,Aomori,Male,Below 20,342611
+Japan,Aomori,Male,20-40,239467
+Japan,Aomori,Male,40-60,616696
+Japan,Aomori,Male,Above 60,241353
+Japan,Iwate,Female,Below 20,256662
+Japan,Iwate,Female,20-40,602207
+Japan,Iwate,Female,40-60,188863
+Japan,Iwate,Female,Above 60,45745
+Japan,Iwate,Male,Below 20,602694
+Japan,Iwate,Male,20-40,102000
+Japan,Iwate,Male,40-60,302057
+Japan,Iwate,Male,Above 60,6443
+Japan,Oita,Female,Below 20,34736
+Japan,Oita,Female,20-40,583919
+Japan,Oita,Female,40-60,84321
+Japan,Oita,Female,Above 60,594654
+Japan,Oita,Male,Below 20,462199
+Japan,Oita,Male,20-40,351057
+Japan,Oita,Male,40-60,168223
+Japan,Oita,Male,Above 60,196587
+Japan,Ishikawa,Female,Below 20,277533
+Japan,Ishikawa,Female,20-40,197867
+Japan,Ishikawa,Female,40-60,443512
+Japan,Ishikawa,Female,Above 60,136396
+Japan,Ishikawa,Male,Below 20,318795
+Japan,Ishikawa,Male,20-40,196374
+Japan,Ishikawa,Male,40-60,341759
+Japan,Ishikawa,Male,Above 60,348733
+Japan,Yamagata,Female,Below 20,120184
+Japan,Yamagata,Female,20-40,590696
+Japan,Yamagata,Female,40-60,83482
+Japan,Yamagata,Female,Above 60,122031
+Japan,Yamagata,Male,Below 20,77124
+Japan,Yamagata,Male,20-40,322847
+Japan,Yamagata,Male,40-60,303080
+Japan,Yamagata,Male,Above 60,143019
+Japan,Miyazaki,Female,Below 20,38569
+Japan,Miyazaki,Female,20-40,189579
+Japan,Miyazaki,Female,40-60,327826
+Japan,Miyazaki,Female,Above 60,53046
+Japan,Miyazaki,Male,Below 20,164991
+Japan,Miyazaki,Male,20-40,137380
+Japan,Miyazaki,Male,40-60,130326
+Japan,Miyazaki,Male,Above 60,461927
+Japan,Toyama,Female,Below 20,524310
+Japan,Toyama,Female,20-40,305139
+Japan,Toyama,Female,40-60,16801
+Japan,Toyama,Female,Above 60,243062
+Japan,Toyama,Male,Below 20,173791
+Japan,Toyama,Male,20-40,506242
+Japan,Toyama,Male,40-60,11981
+Japan,Toyama,Male,Above 60,312296
+Japan,Akita,Female,Below 20,147048
+Japan,Akita,Female,20-40,200754
+Japan,Akita,Female,40-60,302226
+Japan,Akita,Female,Above 60,239130
+Japan,Akita,Male,Below 20,244847
+Japan,Akita,Male,20-40,293241
+Japan,Akita,Male,40-60,435652
+Japan,Akita,Male,Above 60,144202
+Japan,Wakayama,Female,Below 20,503463
+Japan,Wakayama,Female,20-40,253078
+Japan,Wakayama,Female,40-60,348386
+Japan,Wakayama,Female,Above 60,405824
+Japan,Wakayama,Male,Below 20,425569
+Japan,Wakayama,Male,20-40,17389
+Japan,Wakayama,Male,40-60,290970
+Japan,Wakayama,Male,Above 60,135557
+Japan,Kagawa,Female,Below 20,225012
+Japan,Kagawa,Female,20-40,286883
+Japan,Kagawa,Female,40-60,462702
+Japan,Kagawa,Female,Above 60,342498
+Japan,Kagawa,Male,Below 20,298868
+Japan,Kagawa,Male,20-40,434114
+Japan,Kagawa,Male,40-60,137336
+Japan,Kagawa,Male,Above 60,134734
+Japan,Yamanashi,Female,Below 20,299646
+Japan,Yamanashi,Female,20-40,174635
+Japan,Yamanashi,Female,40-60,261394
+Japan,Yamanashi,Female,Above 60,251795
+Japan,Yamanashi,Male,Below 20,249138
+Japan,Yamanashi,Male,20-40,128095
+Japan,Yamanashi,Male,40-60,401525
+Japan,Yamanashi,Male,Above 60,239946
+Japan,Saga,Female,Below 20,247588
+Japan,Saga,Female,20-40,422213
+Japan,Saga,Female,40-60,355308
+Japan,Saga,Female,Above 60,407514
+Japan,Saga,Male,Below 20,227381
+Japan,Saga,Male,20-40,348403
+Japan,Saga,Male,40-60,238041
+Japan,Saga,Male,Above 60,49725
+Japan,Fukui-ken,Female,Below 20,268181
+Japan,Fukui,Female,20-40,310468
+Japan,Fukui,Female,40-60,329769
+Japan,Fukui,Female,Above 60,214289
+Japan,Fukui,Male,Below 20,139625
+Japan,Fukui,Male,20-40,29383
+Japan,Fukui,Male,40-60,69029
+Japan,Fukui,Male,Above 60,14151
+Japan,Tokushima,Female,Below 20,408542
+Japan,Tokushima,Female,20-40,121821
+Japan,Tokushima,Female,40-60,238502
+Japan,Tokushima,Female,Above 60,220034
+Japan,Tokushima,Male,Below 20,141822
+Japan,Tokushima,Male,20-40,36222
+Japan,Tokushima,Male,40-60,329730
+Japan,Tokushima,Male,Above 60,306846
+Japan,Kochi,Female,Below 20,33753
+Japan,Kochi,Female,20-40,593
+Japan,Kochi,Female,40-60,354616
+Japan,Kochi,Female,Above 60,138020
+Japan,Kochi,Male,Below 20,284199
+Japan,Kochi,Male,20-40,130354
+Japan,Kochi,Male,40-60,25279
+Japan,Kochi,Male,Above 60,112769
+Japan,Shimane,Female,Below 20,273610
+Japan,Shimane,Female,20-40,4595
+Japan,Shimane,Female,40-60,247479
+Japan,Shimane,Female,Above 60,137258
+Japan,Shimane,Male,Below 20,195558
+Japan,Shimane,Male,20-40,292886
+Japan,Shimane,Male,40-60,276564
+Japan,Shimane,Male,Above 60,179370
+Japan,Tottori,Female,Below 20,118156
+Japan,Tottori,Female,20-40,272901
+Japan,Tottori,Female,40-60,124526
+Japan,Tottori,Female,Above 60,163774
+Japan,Tottori,Male,Below 20,63399
+Japan,Tottori,Male,20-40,127941
+Japan,Tottori,Male,40-60,272694
+Japan,Tottori,Male,Above 60,26601
