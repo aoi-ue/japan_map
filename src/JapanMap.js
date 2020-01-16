@@ -16,7 +16,7 @@ const colorScale = scaleLinear()
   .domain([10000, 1000000])
   .range(["#ffedea", "#ff5233"]);
 
-const JapanMap = ({ setTooltipContent, state }) => {
+const JapanMap = ({ setTooltipContent }) => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
@@ -48,7 +48,7 @@ const JapanMap = ({ setTooltipContent, state }) => {
 
 
   return (
-    <div>
+    <div className="map">
       <ComposableMap data-tip="" projection="geoMercator">
         <ZoomableGroup center={[141.429741, 43.413327]} zoom={5}>
           <Geographies geography={japanMap.features}>
@@ -67,20 +67,6 @@ const JapanMap = ({ setTooltipContent, state }) => {
                     onMouseLeave={() => {
                       setTooltipContent("");
                     }}
-                    // style={{
-                    //   default: {
-                    //     fill: "#D6D6DA",
-                    //     outline: "none"
-                    //   },
-                    //   hover: {
-                    //     fill: "#F53",
-                    //     outline: "none"
-                    //   },
-                    //   pressed: {
-                    //     fill: "#E42",
-                    //     outline: "none"
-                    //   }
-                    // }}
                   />
                 );
               })
