@@ -25,32 +25,10 @@ const JapanMap = ({ setTooltipContent }) => {
     });
   }, []);
 
-//   const ourCount = {};
-
-//   data.forEach(entry => {
-//     if (!ourCount[entry.State]) {
-//       ourCount[entry.State] = 0;
-//     }
-//     ourCount[entry.State] += Number(entry["Total Population"]);
-//   });
-
-// //   console.log(ourCount)
-
-// const output = data.reduce((accumulator, cur) => {
-//   let state = cur.State;
-//   let found = accumulator.find(elem => elem.State === state)
-//   if (found) found["Total Population"] += Number(cur["Total Population"]);
-//   else accumulator.push(cur);
-//   return accumulator;
-// }, []);
-
-// console.log(output)
-
-
   return (
     <div className="map">
       <ComposableMap data-tip="" projection="geoMercator">
-        <ZoomableGroup center={[141.429741, 43.413327]} zoom={5}>
+        <ZoomableGroup center={[141.429741, 43.413327]} zoom={6}>
           <Geographies geography={japanMap.features}>
             {({ geographies }) =>
               geographies.map(geo => {
