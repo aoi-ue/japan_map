@@ -37,7 +37,7 @@ const findSpecificPopulation = (array, state, ageRange, gender) => {
       ? el["Total Population"]
       : undefined
   );
-  return result.filter(el => el);
+  return +result.filter(el => el);
 };
 
 const convert = value => {
@@ -118,16 +118,31 @@ const Table = ({ content }) => {
             <td>Below 20</td>
             <td>
               {content === ""
-                ? sum(findTotalGenderPopulation(data, "Below 20", "Male"))
+                ? convert(sum(findTotalGenderPopulation(data, "Below 20", "Male")))
                 : convert(
                     findSpecificPopulation(data, content, "Below 20", "Male")
                   )}
             </td>
             <td>
               {content === ""
-                ? sum(findTotalGenderPopulation(data, "Below 20", "Female"))
+                ? convert(sum(findTotalGenderPopulation(data, "Below 20", "Female")))
                 : convert(
                     findSpecificPopulation(data, content, "Below 20", "Female")
+                  )}
+            </td>
+
+            <td>
+              {content === ""
+                ? convert(sum(findTotalGenderPopulation(data, "Below 20", "Male")) +
+                  sum(findTotalGenderPopulation(data, "Below 20", "Female")))
+                : convert(
+                    findSpecificPopulation(
+                      data,
+                      content,
+                      "Below 20",
+                      "Female"
+                    ) +
+                      findSpecificPopulation(data, content, "Below 20", "Male")
                   )}
             </td>
           </tr>
@@ -136,16 +151,25 @@ const Table = ({ content }) => {
             <td>20-40</td>
             <td>
               {content === ""
-                ? sum(findTotalGenderPopulation(data, "20-40", "Male"))
+                ? convert(sum(findTotalGenderPopulation(data, "20-40", "Male")))
                 : convert(
                     findSpecificPopulation(data, content, "20-40", "Male")
                   )}
             </td>
             <td>
               {content === ""
-                ? sum(findTotalGenderPopulation(data, "20-40", "Female"))
+                ? convert(sum(findTotalGenderPopulation(data, "20-40", "Female")))
                 : convert(
                     findSpecificPopulation(data, content, "20-40", "Female")
+                  )}
+            </td>
+            <td>
+              {content === ""
+                ? convert(sum(findTotalGenderPopulation(data, "20-40", "Male")) +
+                  sum(findTotalGenderPopulation(data, "20-40", "Female")))
+                : convert(
+                    findSpecificPopulation(data, content, "20-40", "Female") +
+                      findSpecificPopulation(data, content, "20-40", "Male")
                   )}
             </td>
           </tr>
@@ -155,7 +179,7 @@ const Table = ({ content }) => {
             <td>
               {" "}
               {content === ""
-                ? sum(findTotalGenderPopulation(data, "40-60", "Male"))
+                ? convert(sum(findTotalGenderPopulation(data, "40-60", "Male")))
                 : convert(
                     findSpecificPopulation(data, content, "40-60", "Male")
                   )}
@@ -163,9 +187,19 @@ const Table = ({ content }) => {
             <td>
               {" "}
               {content === ""
-                ? sum(findTotalGenderPopulation(data, "40-60", "Female"))
+                ? convert(sum(findTotalGenderPopulation(data, "40-60", "Female")))
                 : convert(
                     findSpecificPopulation(data, content, "40-60", "Female")
+                  )}
+            </td>
+
+            <td>
+              {content === ""
+                ? convert(sum(findTotalGenderPopulation(data, "40-60", "Male")) +
+                  sum(findTotalGenderPopulation(data, "40-60", "Female")))
+                : convert(
+                    findSpecificPopulation(data, content, "40-60", "Female") +
+                      findSpecificPopulation(data, content, "40-60", "Male")
                   )}
             </td>
           </tr>
@@ -173,18 +207,26 @@ const Table = ({ content }) => {
           <tr>
             <td>Above 60</td>
             <td>
-              {" "}
               {content === ""
-                ? sum(findTotalGenderPopulation(data, "Above 60", "Male"))
+                ? convert(sum(findTotalGenderPopulation(data, "Above 60", "Male")))
                 : convert(
                     findSpecificPopulation(data, content, "Above 60", "Male")
                   )}
             </td>
             <td>
               {content === ""
-                ? sum(findTotalGenderPopulation(data, "Above 60", "Female"))
+                ? convert(sum(findTotalGenderPopulation(data, "Above 60", "Female")))
                 : convert(
                     findSpecificPopulation(data, content, "Above 60", "Female")
+                  )}
+            </td>
+            <td>
+              {content === ""
+                ? convert(sum(findTotalGenderPopulation(data, "Above 60", "Male")) +
+                  sum(findTotalGenderPopulation(data, "Above 60", "Female")))
+                : convert(
+                    findSpecificPopulation(data, content, "Above 60", "Female") +
+                      findSpecificPopulation(data, content, "Above 60", "Male")
                   )}
             </td>
           </tr>
