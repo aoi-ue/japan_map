@@ -5,22 +5,10 @@
   grid-column-gap: 0px;
   grid-row-gap: 0px;
 }
-
-.wrapper {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-template-rows: repeat(9, 1fr);
-  grid-column-gap: 0px;
-  grid-row-gap: 0px;
-  }
-
-  .total { grid-area: 1 / 1 / 3 / 5; }
-  .total_male { grid-area: 4 / 1 / 5 / 3; }
-  .total_female { grid-area: 4 / 3 / 5 / 5; }
-  .box-c { grid-area: 6 / 1 / 10 / 2; }
-  .div5 { grid-area: 6 / 2 / 10 / 3; }
-  .div6 { grid-area: 6 / 3 / 10 / 4; }
-  .div7 { grid-area: 6 / 4 / 10 / 5; }
+.table {
+  border: solid black 1px;
+  padding:20% 0;
+}
 /* 
 .App {
   text-align: center;
