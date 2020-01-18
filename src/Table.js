@@ -90,7 +90,7 @@ const Table = ({ content }) => {
 
   return (
     <div className="table">
-      <h1> total Population </h1>
+      <h1> Total Population </h1>
       <h2>
         {content === ""
           ? convert(Object.values(total).reduce((a, b) => a + b, 0))
